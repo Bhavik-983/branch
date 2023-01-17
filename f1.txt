@@ -1,8 +1,5 @@
 fileone
-<<<<<<< HEAD
 buggg
-
-=======
 newonw
 hyyy
->>>>>>> bug1
+
